@@ -1,3 +1,4 @@
+hallo
 cat > /root/install-frigate-0152.sh <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
